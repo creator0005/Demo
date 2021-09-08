@@ -1,0 +1,178 @@
+D:\MVC\DoAn3\DoAn3\bin\DoAn3.dll.config
+D:\MVC\DoAn3\DoAn3\bin\DoAn3.dll
+D:\MVC\DoAn3\DoAn3\bin\DoAn3.pdb
+D:\MVC\DoAn3\DoAn3\bin\roslyn\csc.exe
+D:\MVC\DoAn3\DoAn3\bin\roslyn\csc.exe.config
+D:\MVC\DoAn3\DoAn3\bin\roslyn\csc.rsp
+D:\MVC\DoAn3\DoAn3\bin\roslyn\csi.exe
+D:\MVC\DoAn3\DoAn3\bin\roslyn\csi.rsp
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.AppContext.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC\DoAn3\DoAn3\bin\roslyn\vbc.exe
+D:\MVC\DoAn3\DoAn3\bin\roslyn\vbc.exe.config
+D:\MVC\DoAn3\DoAn3\bin\roslyn\vbc.rsp
+D:\MVC\DoAn3\DoAn3\bin\roslyn\VBCSCompiler.exe
+D:\MVC\DoAn3\DoAn3\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC\DoAn3\DoAn3\bin\Antlr3.Runtime.dll
+D:\MVC\DoAn3\DoAn3\bin\EntityFramework.dll
+D:\MVC\DoAn3\DoAn3\bin\EntityFramework.SqlServer.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Google.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC\DoAn3\DoAn3\bin\Newtonsoft.Json.dll
+D:\MVC\DoAn3\DoAn3\bin\Owin.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Helpers.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Mvc.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Optimization.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Razor.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Deployment.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Razor.dll
+D:\MVC\DoAn3\DoAn3\bin\WebGrease.dll
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Helpers.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Mvc.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Optimization.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.Razor.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Deployment.xml
+D:\MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Razor.xml
+D:\MVC\DoAn3\DoAn3\bin\Newtonsoft.Json.xml
+D:\MVC\DoAn3\DoAn3\bin\Antlr3.Runtime.pdb
+D:\MVC\DoAn3\DoAn3\bin\EntityFramework.xml
+D:\MVC\DoAn3\DoAn3\bin\EntityFramework.SqlServer.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Google.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MVC\DoAn3\DoAn3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csproj.CoreCompileInputs.cache
+D:\MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csproj.CopyComplete
+D:\MVC\DoAn3\DoAn3\obj\Debug\DoAn3.dll
+D:\MVC\DoAn3\DoAn3\obj\Debug\DoAn3.pdb
+D:\MVC\DoAn3\DoAn3\bin\PagedList.dll
+D:\MVC\DoAn3\DoAn3\bin\PagedList.Mvc.dll
+D:\MVC\DoAn3\DoAn3\bin\PagedList.xml
+D:\MVC\DoAn3\DoAn3\bin\PagedList.Mvc.xml
+D:\MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csprojAssemblyReference.cache
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\DoAn3.dll.config
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\DoAn3.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\DoAn3.pdb
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\csc.exe
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\csc.exe.config
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\csc.rsp
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\csi.exe
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\csi.rsp
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.AppContext.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.Collections.Immutable.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.IO.FileSystem.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\vbc.exe
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\vbc.exe.config
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\vbc.rsp
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\VBCSCompiler.exe
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\roslyn\VBCSCompiler.exe.config
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Antlr3.Runtime.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\EntityFramework.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\EntityFramework.SqlServer.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Google.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Web.Infrastructure.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Newtonsoft.Json.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Owin.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\PagedList.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\PagedList.Mvc.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Helpers.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Mvc.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Optimization.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Razor.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Deployment.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Razor.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\WebGrease.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\PagedList.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\PagedList.Mvc.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Helpers.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Mvc.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Optimization.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.Razor.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Deployment.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\System.Web.WebPages.Razor.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Newtonsoft.Json.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Antlr3.Runtime.pdb
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\EntityFramework.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\EntityFramework.SqlServer.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Google.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csproj.AssemblyReference.cache
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csproj.CoreCompileInputs.cache
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\obj\Debug\DoAn3.csproj.CopyComplete
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\obj\Debug\DoAn3.dll
+D:\Tuấn Vĩ\đồ án Web bán điện thoại MVC\DoAn3\DoAn3\obj\Debug\DoAn3.pdb
